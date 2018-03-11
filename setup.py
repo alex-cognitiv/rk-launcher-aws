@@ -8,5 +8,8 @@ setup(
     license='Apache 2.0',
     author='alex',
     author_email='alex@cognitiv.ai',
-    description=''
+    description='',
+    install_requires=[
+        'rk', 'paramiko', 'scp'
+    ]
 )

@@ -1,0 +1,5 @@
+dist
+build
+rk_launcher_aws.egg-info
+__pycache__
+.idea
